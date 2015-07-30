@@ -5,7 +5,7 @@
   "homepage": "",
   "repository": {
       "type": "git",
-      "url": ""
+      "url": "https://github.com/idw111/blueimp-load-image-npm.git"
   },
   "author": {
     "name": "Dongwon Lim",
@@ -24,6 +24,9 @@
     "image",
     "load"
   ],
+  "dependencies": {
+
+  },
   "devDependencies": {
     "gulp": "^3.6.0",
     "gulp-exclude-gitignore": "^1.0.0",
