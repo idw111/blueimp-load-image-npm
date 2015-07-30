@@ -1,0 +1,43 @@
+{
+  "name": "blueimp-load-image-npm",
+  "version": "0.1.0",
+  "description": "",
+  "homepage": "",
+  "repository": {
+      "type": "git",
+      "url": ""
+  },
+  "author": {
+    "name": "Dongwon Lim",
+    "email": "idw111@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "blueimp",
+    "blueimp",
+    "image",
+    "load",
+    "image",
+    "load"
+  ],
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.9.0",
+    "gulp-jscs": "^1.1.0",
+    "gulp-jshint": "^1.5.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^0.4.5",
+    "jshint-stylish": "^1.0.0"
+  },
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "MIT"
+}
