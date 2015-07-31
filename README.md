@@ -1,6 +1,5 @@
-[![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
+#  [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
-# blueimp-load-image-npm
 > npm version of blueimp-load-image
 
 
