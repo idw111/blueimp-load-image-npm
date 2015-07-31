@@ -1,4 +1,4 @@
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+[![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 # blueimp-load-image-npm
 > npm version of blueimp-load-image
@@ -12,10 +12,11 @@ $ npm install --save blueimp-load-image-npm
 
 
 ## Usage
-
 ```js
 var imageLoad = require('blueimp-load-image-npm');
 ```
+Refer to [blueimp-load-image](https://github.com/blueimp/JavaScript-Load-Image) for detail
+
 
 ## License
 
