@@ -12,6 +12,7 @@ $ npm install --save blueimp-load-image-npm
 
 
 ## Usage
+
 ```js
 var imageLoad = require('blueimp-load-image-npm');
 ```
@@ -21,6 +22,11 @@ Refer to [blueimp-load-image](https://github.com/blueimp/JavaScript-Load-Image) 
 ## License
 
 MIT © [Dongwon Lim](./LICENSE)
+
+
+## Credits
+
+- All credits to [Sebastian Tschan](https://github.com/blueimp)
 
 
 [npm-image]: https://badge.fury.io/js/blueimp-load-image-npm.svg
