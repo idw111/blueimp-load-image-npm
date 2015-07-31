@@ -19,7 +19,7 @@ var imageLoad = require('blueimp-load-image-npm');
 
 ## License
 
-MIT © [Dongwon Lim]
+MIT © [Dongwon Lim](./LICENSE)
 
 
 [npm-image]: https://badge.fury.io/js/blueimp-load-image-npm.svg
