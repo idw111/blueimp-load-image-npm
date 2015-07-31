@@ -26,7 +26,7 @@ MIT © [Dongwon Lim](./LICENSE)
 
 ## Credits
 
-- All credits to [Sebastian Tschan](https://github.com/blueimp)
+All credits to [Sebastian Tschan](https://github.com/blueimp)
 
 
 [npm-image]: https://badge.fury.io/js/blueimp-load-image-npm.svg
