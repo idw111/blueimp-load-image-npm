@@ -1,7 +1,7 @@
 {
   "name": "blueimp-load-image-npm",
-  "version": "0.1.6",
-  "description": "",
+  "version": "0.1.7",
+  "description": "npm version of blueimp-load-image",
   "homepage": "",
   "repository": {
     "type": "git",
@@ -9,8 +9,7 @@
   },
   "author": {
     "name": "Dongwon Lim",
-    "email": "idw111@gmail.com",
-    "url": ""
+    "email": "idw111@gmail.com"
   },
   "files": [
     "lib"
@@ -18,11 +17,9 @@
   "main": "lib/index.js",
   "keywords": [
     "blueimp",
-    "blueimp",
     "image",
     "load",
-    "image",
-    "load"
+    "blueimp-load-image"
   ],
   "dependencies": {},
   "devDependencies": {
